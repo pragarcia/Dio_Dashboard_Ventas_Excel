@@ -1,4 +1,6 @@
 Dashboard de Análise de Vendas de Café ☕
+
+
 Documentação técnica e resumo executivo do projeto desenvolvido no Microsoft Excel para controle de receitas, análise de categorias e desempenho por canais de distribuição.
 
 📋 Sumário Executivo
